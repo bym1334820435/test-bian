@@ -1,1 +1,6 @@
-{\rtf1}
+cd /D/test-bian
+
+1.先在本地仓库建好文件，或者代码。在使用下面命令查看是否存在
+		$ git add text.txt 
+2.$ git commit -m "说明"
+3.$ git push origin master提交登录用户名与密码变1029
